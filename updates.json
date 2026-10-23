@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "macOS": {
+    "version": "2.4.0",
+    "build": 7,
+    "notes": "新增联网配置、软件更新提醒与在线模板下载。",
+    "downloadURL": "https://github.com/SpadeZ-7/sucaixia-updates/releases/download/v2.4.0/sucaixia-2.4-mac.zip",
+    "minimumSystemVersion": "13.5"
+  },
+  "templates": [
+    {
+      "id": "energy-default",
+      "name": "能耗测试模板 · 基础预设",
+      "version": "1.0.0",
+      "assetId": "energy-table",
+      "description": "六行柱状图 · 分段增长 · 中文参数",
+      "url": "https://spadez-7.github.io/sucaixia-updates/energy-default.json",
+      "sha256": "211b24ba6ba09191e08807c4e0cc89905bec36efd6c53396593525f4a44acc83"
+    },
+    {
+      "id": "blue-response",
+      "name": "响应时间表格 · 基础预设",
+      "version": "1.0.0",
+      "assetId": "response-table",
+      "description": "蓝色渐变圆角表格 · 字体颜色关键帧",
+      "url": "https://spadez-7.github.io/sucaixia-updates/blue-response.json",
+      "sha256": "0d453c5c4dc87c1624513553638c5efae23a7393b2e369f7bf7610eb6abd967e"
+    }
+  ]
+}

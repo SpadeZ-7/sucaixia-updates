@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "assetId": "response-table",
+  "props": {
+    "data": [
+      [
+        "OD 档位",
+        "响应时间 GTG",
+        "MPRT",
+        "平均过冲",
+        "最大过冲"
+      ],
+      [
+        "0",
+        "5.98 ms",
+        "6.28 ms",
+        "0",
+        "0"
+      ],
+      [
+        "10",
+        "2.82 ms",
+        "3.41 ms",
+        "0.2%",
+        "5.0%"
+      ],
+      [
+        "15",
+        "2.20 ms",
+        "2.91 ms",
+        "6.4%",
+        "24.0%"
+      ],
+      [
+        "16（最佳）",
+        "2.10 ms",
+        "2.83 ms",
+        "9.2%",
+        "32.8%"
+      ],
+      [
+        "17",
+        "2.08 ms",
+        "2.82 ms",
+        "10.8%",
+        "33.3%"
+      ],
+      [
+        "18",
+        "2.06 ms",
+        "2.81 ms",
+        "12.7%",
+        "43.0%"
+      ],
+      [
+        "20",
+        "1.92 ms",
+        "2.71 ms",
+        "26.8%",
+        "172.8%"
+      ]
+    ],
+    "tableW": 1600,
+    "rowH": 100,
+    "headH": 120,
+    "radius": 65,
+    "blue1": "#00a6ff",
+    "blue2": "#0737ff",
+    "bodyBg": "#ffffff",
+    "lineColor": "#cdd0d6",
+    "lineW": 1,
+    "opacity": 1,
+    "vertical": false,
+    "font": "TableSourceHan",
+    "fontSize": 40,
+    "headSize": 40,
+    "weight": "600",
+    "align": "center",
+    "textColor": "#7b7b7b",
+    "headerColor": "#ffffff",
+    "duration": 6,
+    "keys": {
+      "row:4": [
+        {
+          "t": 0,
+          "c": "#7b7b7b",
+          "ease": "smooth"
+        },
+        {
+          "t": 1.5,
+          "c": "#0c72ff",
+          "ease": "smooth"
+        },
+        {
+          "t": 4.5,
+          "c": "#0c72ff",
+          "ease": "smooth"
+        },
+        {
+          "t": 6,
+          "c": "#7b7b7b",
+          "ease": "smooth"
+        }
+      ]
+    }
+  }
+}
