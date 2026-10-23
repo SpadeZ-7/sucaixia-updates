@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "macOS": {
-    "version": "2.4.0",
-    "build": 7,
-    "notes": "新增联网配置、软件更新提醒与在线模板下载。",
-    "downloadURL": "https://github.com/SpadeZ-7/sucaixia-updates/releases/download/v2.4.0/sucaixia-2.4-mac.zip",
+    "version": "2.5.0",
+    "build": 8,
+    "notes": "统一蓝灰色调，新增白天/黑夜切换；美化两套独立时间线，使用小眼睛和锁图标；响应表格真实缩略图，默认4K50帧。",
+    "downloadURL": "https://github.com/SpadeZ-7/sucaixia-updates/releases/download/v2.5.0/sucaixia-2.5-mac.zip",
     "minimumSystemVersion": "13.5"
   },
   "templates": [
