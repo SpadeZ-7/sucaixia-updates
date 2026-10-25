@@ -1,1 +1,2 @@
-86bf28c91a57139ed9574fa88f3045e8f93df1a8726bd319b7a8ccbc525ee12b  sucaixia-2.5-mac.zip
+474e6558c1a5cdee4ee4cfb80b5be45bbc9b7d760f07e72ddb071d8a7a4c3e9a  sucaixia-3.0.0-mac.zip
+186ded417d5579ecf907b4131d41c1420b3d70d5fc672576f8f3d9f3075a1c24  sucaixia-3.0.0-source.zip

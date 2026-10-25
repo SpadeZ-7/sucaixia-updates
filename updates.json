@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "macOS": {
-    "version": "2.5.0",
-    "build": 8,
-    "notes": "统一蓝灰色调，新增白天/黑夜切换；美化两套独立时间线，使用小眼睛和锁图标；响应表格真实缩略图，默认4K50帧。",
-    "downloadURL": "https://github.com/SpadeZ-7/sucaixia-updates/releases/download/v2.5.0/sucaixia-2.5-mac.zip",
+    "version": "3.0.0",
+    "build": 9,
+    "notes": "集成百分比计算器和搞机抠图，统一白天/黑夜风格；新增瑾池联系提示；启动即检查更新，运行期间每三小时检查一次。",
+    "downloadURL": "https://github.com/SpadeZ-7/sucaixia-updates/releases/download/v3.0.0/sucaixia-3.0.0-mac.zip",
     "minimumSystemVersion": "13.5"
   },
   "templates": [
